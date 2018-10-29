@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "The GodFather",
+    "specs": {
+      "manufacturer": "Sony",
+      "year": 1970,
+      "rating": 10
+    },
+    "description": "When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen",
+    "image": {
+      "small": "images/godfather_small.jpg",
+      "large": "images/godfather-large.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Gatsby",
+    "specs": {
+      "manufacturer": "Universal",
+      "year": 2010,
+      "rating": 9.5
+    },
+    "description": "An adaptation of F. Scott Fitzgerald's Long Island-set novel, where Midwesterner Nick Carraway is lured into the lavish world of his neighbor, Jay Gatsby. Soon enough, however, Carraway will see through the cracks of Gatsby's nouveau riche existence, where obsession, madness, and tragedy await.",
+    "image": {
+      "small": "images/gatsby_small.jpg",
+      "large": "images/gatsby-large.jpeg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Titanic",
+    "specs": {
+      "manufacturer": "Sony",
+      "year": 2015,
+      "rating": 9
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/titanic-small.jpeg",
+      "large": "images/titanic-large.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Avengers: Infinity War",
+    "specs": {
+      "manufacturer": "Marvels",
+      "year": 2018,
+      "rating": 9
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/avengers-small.jpg",
+      "large": "images/avengers-large.jpeg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "IronMan 3",
+    "specs": {
+      "manufacturer": "Marvels",
+      "year": 2016,
+      "rating": 8
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/ironman-small.jpg",
+      "large": "images/ironman-large.jpeg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Andhadhun",
+    "specs": {
+      "manufacturer": "Universal",
+      "year": 2018,
+      "rating": 8
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/andhadhun-small.jpg",
+      "large": "images/andhadhun-large.jpeg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dangal",
+    "specs": {
+      "manufacturer": "Amir",
+      "year": 2017,
+      "rating": 9
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/dangal-small.jpg",
+      "large": "images/dangal-large.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Swadesh",
+    "specs": {
+      "manufacturer": "Universal",
+      "year": 2015,
+      "rating": 7
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/swadesh-small.jpeg",
+      "large": "images/swadesh-large.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Welcome Back",
+    "specs": {
+      "manufacturer": "Universal",
+      "year": 2016,
+      "rating": 6
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/welcomeback-small.jpg",
+      "large": "images/welcomeback-large.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Black panther",
+    "specs": {
+      "manufacturer": "Marvels",
+      "year": 2017,
+      "rating": 8
+    },
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique ipsum in efficitur pharetra. Maecenas luctus ante in neque maximus, sed viverra sem posuere. Vestibulum lectus nisi, laoreet vel suscipit nec, feugiat at odio. Etiam eget tellus arcu.",
+    "image": {
+      "small": "images/blackpanther-small.jpeg",
+      "large": "images/blackpanther-large.jpg"
+    }
+  }
+]
